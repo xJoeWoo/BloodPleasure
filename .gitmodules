@@ -1,0 +1,9 @@
+[submodule "BloodPleasure-Android"]
+	path = BloodPleasure-Android
+	url = https://github.com/xJoeWoo/BloodPleasure-Android.git
+[submodule "BloodPleasure-Server"]
+	path = BloodPleasure-Server
+	url = https://github.com/xJoeWoo/BloodPleasure-Server.git
+[submodule "BloodPleasure-Frontend"]
+	path = BloodPleasure-Frontend
+	url = https://github.com/xJoeWoo/BloodPleasure-Frontend.git
